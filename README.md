@@ -13,6 +13,6 @@ The following JavaScript skills are covered:
 * If, Else If, Else Statements
 * Iteration, Conditionals, Logging Output (Fizz Buzz)
 
-
+<br />
 Original exercises posted here:
 http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html
