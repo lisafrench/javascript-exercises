@@ -1,11 +1,9 @@
-========
 Overview
 ========
 
 This repository is a collection of my solutions to simple JavaScript exercises.
 
 
-====================
 Exercises
 ====================
 
