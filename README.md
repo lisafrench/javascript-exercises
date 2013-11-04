@@ -1,11 +1,27 @@
 Overview
-========
+-------------
 
 This repository is a collection of my solutions to simple JavaScript exercises.
 
 
+Exercise Inspirations
+---------------------
+
+* Ten Simple JavaScript Exercises:
+
+http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html
+
+* 99 Bottles:
+
+http://www.99-bottles-of-beer.net
+
+* Fizz Buzz:
+
+http://c2.com/cgi/wiki?FizzBuzzTest
+
+
 Skills
-=====================
+-------------
 
 With these exercises, the following JavaScript skills are covered:
 
@@ -14,15 +30,16 @@ With these exercises, the following JavaScript skills are covered:
 * Iteration, Conditionals, Logging Output (Fizz Buzz)
 
 
-Exercise Inspirations
-=====================
+Working Code
+-------------
 
-* Ten Simple JavaScript Exercises:
-http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html
+I've created a JS Fiddle to see how each exercise runs: 
 
-* 99 Bottles
-http://www.99-bottles-of-beer.net
+* If, Else: 
+http://jsfiddle.net/lisafrench/Tjwug/1/
+
+* 99 Bottles:
+http://jsfiddle.net/lisafrench/Q86sq/2/
 
 * Fizz Buzz:
-http://c2.com/cgi/wiki?FizzBuzzTest
 
