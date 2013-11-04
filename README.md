@@ -26,6 +26,6 @@ See The Code Run
 ----------------
 
 I've created a JSFiddle to see how each exercise runs: 
-* [99 Bottles](http://jsfiddle.net/lisafrench/Q86sq/2/ "99 Bottles on JSFiddle")
-* [Fizz Buzz](http://jsfiddle.net/lisafrench/tAUpA/1/ "Fizz Buzz on JSFiddle")
-* [If, Else Exercise](http://jsfiddle.net/lisafrench/Tjwug/1/ "If, Else Exercise on JSFiddle")
+* [99 Bottles](http://jsfiddle.net/lisafrench/Q86sq/ "99 Bottles on JSFiddle")
+* [Fizz Buzz](http://jsfiddle.net/lisafrench/tAUpA/ "Fizz Buzz on JSFiddle")
+* [If, Else Exercise](http://jsfiddle.net/lisafrench/Tjwug/ "If, Else Exercise on JSFiddle")
