@@ -1,27 +1,22 @@
-Ten Simple JavaScript Exercises
+If/Else Exercise: 
 
-Problem 2:
-Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them.
+Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript.
 
 <script>
   
 var numberOne = 2;
 var numberTwo = 44;
-var numberThree = 888;
+var numberThree = 888888;
 
-function maxOfThree() {
-    if (numberOne > numberTwo && numberOne > numberThree) {
+function max() {
+    if (numberOne > numberTwo) {
         console.log(numberOne);
-    }
-    if (numberTwo > numberThree && numberTwo > numberThree) {
-        console.log(numberTwo);   
-    }
-    else {
-        console.log(numberThree);
+    } else {
+        console.log(numberTwo);
     }
 }
 
-maxOfThree(numberOne, numberTwo, numberThree);
+max(numberOne, numberTwo);
 
 </script>
 
