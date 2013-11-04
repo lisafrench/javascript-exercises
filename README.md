@@ -25,7 +25,8 @@ With these exercises, the following JavaScript skills are covered:
 See The Code Run
 ----------------
 
-I've created a JSFiddle to see how each exercise runs: 
+I've created a JSFiddle to demonstrate how each exercise runs: 
 * [99 Bottles](http://jsfiddle.net/lisafrench/Q86sq/ "99 Bottles on JSFiddle")
 * [Fizz Buzz](http://jsfiddle.net/lisafrench/tAUpA/ "Fizz Buzz on JSFiddle")
-* [If, Else Exercise](http://jsfiddle.net/lisafrench/Tjwug/ "If, Else Exercise on JSFiddle")
+* [Ten Simple JavaScript Exercises, Problem 1](http://jsfiddle.net/lisafrench/Tjwug/ "Ten Simple JavaScript Exercises, Problem 1")
+* [Ten Simple JavaScript Exercises, Problem 2](http://jsfiddle.net/lisafrench/UBwRf/ "Ten Simple JavaScript Exercises, Problem 2")
