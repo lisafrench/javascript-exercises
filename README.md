@@ -30,4 +30,4 @@ I've created a JSFiddle to demonstrate how each exercise runs:
 * [Fizz Buzz](http://jsfiddle.net/lisafrench/tAUpA/ "Fizz Buzz on JSFiddle")
 * [Ten Simple JavaScript Exercises, Problem 1](http://jsfiddle.net/lisafrench/Tjwug/ "Ten Simple JavaScript Exercises, Problem 1")
 * [Ten Simple JavaScript Exercises, Problem 2](http://jsfiddle.net/lisafrench/UBwRf/ "Ten Simple JavaScript Exercises, Problem 2")
-* [Ten Simple JavaScript Exercises, Problem 2](http://jsfiddle.net/lisafrench/3YBWV/ "Ten Simple JavaScript Exercises, Problem 3")
+* [Ten Simple JavaScript Exercises, Problem 3](http://jsfiddle.net/lisafrench/3YBWV/ "Ten Simple JavaScript Exercises, Problem 3")
