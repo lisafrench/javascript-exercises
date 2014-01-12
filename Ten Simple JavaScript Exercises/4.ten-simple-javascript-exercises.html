@@ -4,7 +4,23 @@ Based on http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html
 4. Write a function translate() that will translate a text into "rövarspråket". That is, double every consonant and place an occurrence of "o" in between. For example, translate("this is fun") should return the string "tothohisos isos fofunon".
 
 <script>
-    
 
+var consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+var vowels = ['a', 'e', 'i', 'o', 'u'];
+var stringToTranslate = ('this is fun');
+
+
+function translate(stringToTranslate) {
+
+for (var i = 0; i < stringToTranslate.length; i++) {
+    for (var j = 0; j < consonants.length; j++) {
+        if (stringToTranslate[i] === consonants[j]) {
+            
+        }
+    }
+    console.log(vowel);
+}
+
+}
 
 </script>
