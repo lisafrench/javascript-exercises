@@ -5,68 +5,35 @@ Based on http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html
 
 <script>
 
-var consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
-var vowels = ['a', 'e', 'i', 'o', 'u'];
-var stringToTranslate = 'this is fun';
+function checkConsonants(letterToCheck) {
+    var consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z'];
+    var isConsonant = false;
 
-function translate(stringToTranslate) {
-
-for (var i = 0; i < stringToTranslate.length; i++) {
-    for (var j = 0; j < consonants.length; j++) {
-        if (stringToTranslate[i] === consonants[j]) {
-            console.log(vowels);        
+    for (i = 0; i < consonants.length; i++) {
+        if (letterToCheck == consonants[i]) {
+            isConsonant = true;
         }
     }
-    console.log(vowels);
+    return isConsonant;
 }
-
-}
-
-translate('this is fun');
-
-//New
-var consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
-var vowels = ['a', 'e', 'i', 'o', 'u'];
-var funString = 'this is fun';
-var letterO = 'o';
 
 function translate(funString, letterO) {
-    
-  console.log('The original string is: "' + funString + '"');
-  console.log('The separator is: "' + letterO + '"');
 
-  for (var i=0; i < funString.length; i++) {
-    if (i == consonants) {
-    console.log(funString[i] + letterO + funString[i]);
-  } else {
-     console.log(funString[i] + letterO);   
-  }
+    console.log('The original string is: "' + funString + '"');
+    console.log('The separator is: "' + letterO + '"');
+
+    var newString = '';
+
+    for (var i = 0; i < funString.length; i++) {
+        if (checkConsonants(funString[i])) {
+            newString += funString[i] + letterO + funString[i];
+        } else {
+            newString += funString[i];
+        }
+    }
+    console.log('The "ršvarsprŒket" result is: ' + '"' + newString + '"');
 }
 
-
-translate();
-
-//New
-var consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
-var vowels = ['a', 'e', 'i', 'o', 'u'];
-var funString = 'this is fun';
-var letterO = 'o';
-str.split([separator][, limit])
-function translate(funString, letterO) {
-str.split([separator][, limit])
-  var splitString = funString.split(letterO); 
-  console.log('The original string is: "' + funString + '"');
-  console.log('The separator is: "' + letterO + '"');
-
-  for (var i=0; i < funString.length; i++) {
-    if (i == consonants) {
-    console.log(funString[i] + letterO + funString[i]);
-  } else {
-     console.log(funString[i] + letterO);   
-  }
-}
-}
-
-translate();
+translate('this is fun', 'o');
 
 </script>
