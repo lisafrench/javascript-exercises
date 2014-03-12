@@ -31,3 +31,5 @@ I've created a JSFiddle to demonstrate how each exercise runs:
 * [Ten Simple JavaScript Exercises, Problem 1](http://jsfiddle.net/lisafrench/Tjwug/ "Ten Simple JavaScript Exercises, Problem 1")
 * [Ten Simple JavaScript Exercises, Problem 2](http://jsfiddle.net/lisafrench/UBwRf/ "Ten Simple JavaScript Exercises, Problem 2")
 * [Ten Simple JavaScript Exercises, Problem 3](http://jsfiddle.net/lisafrench/3YBWV/ "Ten Simple JavaScript Exercises, Problem 3")
+* [Ten Simple JavaScript Exercises, Problem 4](http://jsfiddle.net/lisafrench/CmHH8/ "Ten Simple JavaScript Exercises, Problem 4")
+* [Ten Simple JavaScript Exercises, Problem 5](http://jsfiddle.net/lisafrench/xrQUD/ "Ten Simple JavaScript Exercises, Problem 5")
