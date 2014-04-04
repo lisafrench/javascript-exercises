@@ -18,6 +18,7 @@ See The Code Run
 I've created a JSFiddle to demonstrate how each exercise runs: 
 * [99 Bottles](http://jsfiddle.net/lisafrench/Q86sq/ "99 Bottles on JSFiddle")
 * [Fizz Buzz](http://jsfiddle.net/lisafrench/tAUpA/ "Fizz Buzz on JSFiddle")
+* [Grade Average Calculator](http://jsfiddle.net/lisafrench/XBL6c/ "Grade Average Calculator on JSFiddle")
 * [Ten Simple JavaScript Exercises, Problem 1](http://jsfiddle.net/lisafrench/Tjwug/ "Ten Simple JavaScript Exercises, Problem 1")
 * [Ten Simple JavaScript Exercises, Problem 2](http://jsfiddle.net/lisafrench/UBwRf/ "Ten Simple JavaScript Exercises, Problem 2")
 * [Ten Simple JavaScript Exercises, Problem 3](http://jsfiddle.net/lisafrench/3YBWV/ "Ten Simple JavaScript Exercises, Problem 3")
