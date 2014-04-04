@@ -1,7 +1,7 @@
 Overview
 -------------
 
-This repository is a collection of my solutions to simple JavaScript exercises.
+This repository is a growing collection of my solutions to simple JavaScript exercises.
 
 
 Exercise Inspirations
@@ -10,16 +10,6 @@ Exercise Inspirations
 * [99 Bottles](http://www.99-bottles-of-beer.net "99 Bottles Exercise")
 * [Fizz Buzz](http://c2.com/cgi/wiki?FizzBuzzTest "Fizz Buzz Exercise")
 * [Ten Simple JavaScript Exercises](http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html "Ten Simple JavaScript Exercises")
-
-
-Skills
--------------
-
-With these exercises, the following JavaScript skills are covered:
-
-* If, Else Statements
-* If, Else If, Else Statements
-* Iteration, Conditionals, Logging Output (Fizz Buzz)
 
 
 See The Code Run
