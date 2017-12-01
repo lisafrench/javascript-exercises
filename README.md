@@ -9,7 +9,7 @@ Exercise Inspirations
 
 * [99 Bottles](http://www.99-bottles-of-beer.net "99 Bottles Exercise")
 * [Fizz Buzz](http://c2.com/cgi/wiki?FizzBuzzTest "Fizz Buzz Exercise")
-* [Ten Simple JavaScript Exercises](http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html "Ten Simple JavaScript Exercises")
+* [Ten Simple JavaScript Exercises](http://www.webdeveloper.com/forum/showthread.php?210551-Ten-Simple-Javascript-Exercises "Ten Simple JavaScript Exercises")
 
 
 See The Code Run
